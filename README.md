@@ -48,6 +48,29 @@ having a lower weight (0.85 kg)
 | Radio Antenna     | including motor, brackets, control unit, antenna, etc.      | 0.95 kg | obsolete  |  -  |
 | CD-Changer     | installed in trunk  | 1.8 kg | obsolete  | not verified  |
 
+### IRS
+Maintaining the geometry of the IRS is crucial for preserving the handling dynamics.
+![image](https://github.com/user-attachments/assets/c59c02c4-99d2-48f1-a331-dc3d196f7687)
+1. Hub Carrier
+2. Wishbone
+3. Spring
+4. Shock Absorber
+5. Suspension Turret
+6. Suspension Subframe
+7. Mounting Bracket
+8. Differential Strut
+9. Stabiliser Bar
+10. Bump Stop
+
+Possible mounting points for an E-Motor are 6/7.
+
+The second generation of the Jaguar Independent Rear Suspension was used in:
+- Jaguar XJ (XJ40)
+- Jaguar XJ (X300)
+- Jaguar XJ (X308)
+- Jaguar XK (X100)
+- Aston Martin DB7
+
 
 ___
 ## EV-Conversion: 
